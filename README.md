@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Chirag Chaudhary! 👋
 
-<!--
-**chirag9935/chirag9935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Backend Developer | Java & Spring Boot Enthusiast | B.Tech @ PDEU '27
 
-Here are some ideas to get you started:
+I am a results-driven Engineering student with a **9.6 CGPA**, specializing in building high-performance, secure backend systems. I enjoy architecting scalable solutions, exploring cloud infrastructure, and optimizing performance using modern Java features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Java 21 , JavaScript , Python 
+- **Backend Frameworks:** Spring Boot, Spring Security, Spring Data JPA, Express.js
+- **Databases:** MySQL, MongoDB
+- **DevOps & Cloud:** Docker, AWS (EC2/S3), Git, Linux (OS Internals)
+
+---
+
+### 📫 Let's Connect!
+- 📧 **Email:** [chirag9171@gmail.com](mailto:chirag9171@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/chirag-chaudhary](linkedin.com/in/chirag-chaudhary-5aa483313)
+- 📞 **Mobile:** +91 8320159171
