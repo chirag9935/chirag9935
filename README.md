@@ -17,5 +17,5 @@ I am a results-driven Engineering student with a **9.6 CGPA**, specializing in b
 
 ### 📫 Let's Connect!
 - 📧 **Email:** [chirag9171@gmail.com](mailto:chirag9171@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/chirag-chaudhary](linkedin.com/in/chirag-chaudhary-5aa483313)
+- 🔗 **LinkedIn:** [linkedin.com/in/chirag-chaudhary-5aa483313](linkedin.com/in/chirag-chaudhary-5aa483313)
 - 📞 **Mobile:** +91 8320159171
